@@ -1,0 +1,187 @@
+.home {
+  height: 250px;
+  width: 400px;
+  background-image: linear-gradient(rgb(145, 222, 145), orange, rgb(223, 148, 223));
+  border-radius: 30px;
+  margin: auto;
+  align-items: center;
+  align-content: center;
+  border: 5px solid greenyellow;
+}
+
+.top {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  color: brown;
+}
+
+.rail {
+  height: 50px;
+  width: 50px;
+}
+
+.title {
+
+  font-family: Arial, sans-serif;
+  font-size: 42px;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(2, 2, 2, 0.5);
+  text-decoration: double;
+  background-image: linear-gradient(to right, #dc7b63, #feb47b, #fee084, #c1b444, #ffacac);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 125px;
+
+}
+
+.logo {
+  display: flex;
+  margin-top: 16%;
+}
+
+
+.block {
+
+  border-radius: 35px;
+  border-color: black;
+  margin-top: 10%;
+  height: 160px;
+  width: 400px;
+  background-image: linear-gradient(rgb(239, 200, 58), rgb(196, 82, 6));
+
+}
+
+.rail {
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+
+}
+
+.terms {
+  position: absolute;
+
+  bottom: 10px;
+  right: 0px;
+  height: 25px;
+  width: 180px;
+  font-size: 20px;
+  font-weight: 200;
+  text-shadow: aquamarine;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+.text {
+  font-size: 35px;
+  color: rgb(11, 63, 63);
+}
+
+.tc {
+
+  background-color: antiquewhite;
+}
+
+.pic {
+  height: 1000px;
+  width: 1000px;
+}
+
+.form-group {
+  background-color: #dc7b63;
+  height: 350px;
+  width: 350px;
+  background-image: linear-gradient(pink, orange);
+  border-radius: 30px;
+  border: 5px solid greenyellow;
+  position: relative;
+  margin-top: 12%;
+  margin: auto;
+}
+
+.options {
+
+  position: relative;
+  justify-self: center;
+  margin-top: 10%;
+}
+
+.form-group1 {
+  background-color: #dc7b63;
+  height: 250px;
+  width: 350px;
+  background-image: linear-gradient(pink, orange);
+  margin: auto;
+  align-content: center;
+  align-items: center;
+  border-radius: 30px;
+  position: relative;
+  margin-top: 12%;
+  margin: auto;
+  border: 5px solid greenyellow;
+
+}
+
+
+.main {
+  height: 250px;
+  width: 380px;
+  border-radius: 30px;
+  background-image: linear-gradient(rgb(8, 150, 91), rgb(9, 247, 255));
+  position: relative;
+  margin-top: 12%;
+  margin: auto;
+  padding: 30px;
+
+  border: 5px solid greenyellow;
+
+
+
+
+}
+
+.corner-text {
+
+
+  height: 25px;
+  position: absolute;
+  top: 70px;
+  right: 0px;
+  width: 300px;
+  background-color: rgba(255, 6, 243, 0.742);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 25px;
+  border: 5px solid greenyellow;
+}
+
+
+.book {
+
+  background-image: linear-gradient(greenyellow, orange);
+  height: 400px;
+  width: 550px;
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 35px;
+  border: 3px solid crimson;
+  padding: 25px;
+}
+
+.out {
+  background-color: lightseagreen;
+  margin: auto;
+  height: 80px;
+  width: 230px;
+  border: 5px solid greenyellow;
+  border-radius: 25px;
+  padding: 25px;
+  font-size: 20px;
+  margin-top: 0%;
+  position: relative;
+}

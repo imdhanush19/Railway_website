@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.admin2 {
+  /*background-color: #fafafa;*/
+  height: 350px;
+  width: 350px;
+  color: #351f19;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  font-style: oblique;
+  border-radius: 30px;
+  border: 3px solid rgb(0, 34, 128);
+  padding: 25px;
+  margin-left: 15%;
+  background-image: linear-gradient(rgb(9, 192, 161), rgb(228, 145, 159));
+  position: relative;
+
+
+}
+
+.admin3 {
+
+  height: 250px;
+  width: 450px;
+  color: #351f19;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  font-style: oblique;
+  border-radius: 30px;
+  border: 3px solid rgb(0, 34, 128);
+  padding: 25px;
+  margin-left: 35%;
+  background-image: linear-gradient(rgb(9, 192, 161), rgb(228, 145, 159));
+  position: relative;
+
+}
+
+.button {
+
+  height: 30px;
+  width: 60px;
+}
